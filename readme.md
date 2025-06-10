@@ -4,4 +4,8 @@
 This repo is used as a starter for learning scripting python in Linux.
 
 
-I- 
+## I- Chapter 1 : Setup and Configuring Git
+
+      1- Create an account here
+      2- Create a project
+      
