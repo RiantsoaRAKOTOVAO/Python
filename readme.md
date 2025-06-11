@@ -21,6 +21,8 @@ This repo is used as a starter for learning scripting python in Linux.
             ![image](https://github.com/user-attachments/assets/8d85f0f6-bc0a-431c-a8f2-f934b36a2faf)
             To see the configuration of the 3 commmands
             
-      4- Create a project
-      5- 
+      4- Configuration Git with SSH
+            
+      5- Create a project
+      6- 
       
