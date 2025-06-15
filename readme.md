@@ -17,12 +17,24 @@ This repo is used as a starter for learning scripting python in Linux.
 
             The purpose of these commands are to identify who commit and to use nano default.
 
+            To see the configuration of the 3 commands
             $ git config --list
-            ![image](https://github.com/user-attachments/assets/8d85f0f6-bc0a-431c-a8f2-f934b36a2faf)
-            To see the configuration of the 3 commmands
             
       4- Configuration Git with SSH
+            Step 1 : Create a pair of SSH key with passphrase 
+            $ ssh-keygen -t ed25519 -C "riantsoa28@gmail.com"
+            - save the file ssh and the passphrase
+
+            Step 2 : Copy the public key in Github
+            - < Project < Settings < Deploy Key <  Add deploy key
+            - Put the same name as the filename of public and copy the contains
+
+            Step 3 : Test the access SSH 
+            $ ssh -vT git@github.com
+            Comment : Github doesn't provide the shell acces
+      
             
+
       5- Create a project
       6- 
       
